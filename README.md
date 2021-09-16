@@ -1,2 +1,2 @@
 # Pollo-Bot
-A bot for the Pollo's Discord server!
+A bot for the Pollo's Discord server! WIP
